@@ -1,0 +1,267 @@
+2023-12-26 10:01:46,106: LoginPage: INFO: ===== TC02 Verify login page title =====
+2023-12-26 10:02:08,295: LoginPage: INFO: ===== providing username =====
+2023-12-26 10:02:08,378: LoginPage: INFO: ===== providing password =====
+2023-12-26 10:02:11,084: LoginPage: INFO: ===== getting login title =Login: Mercury Tours
+2023-12-26 10:02:11,216: LoginPage: INFO: ===== Successfully login page title =====
+2023-12-26 10:02:43,018: LoginPage: INFO: ===== TC01 Verify home page title =====
+2023-12-26 10:02:43,208: LoginPage: INFO: ===== TC02 Verify login page title =====
+2023-12-26 10:02:54,141: LoginPage: INFO: ===== providing username =====
+2023-12-26 10:02:54,222: LoginPage: INFO: ===== providing password =====
+2023-12-26 10:02:54,519: LoginPage: INFO: ===== getting title =Welcome: Mercury Tours
+2023-12-26 10:02:54,671: LoginPage: INFO: ===== Successfully home page title =====
+2023-12-26 10:02:56,324: LoginPage: INFO: ===== getting login title =Login: Mercury Tours
+2023-12-26 10:02:56,432: LoginPage: INFO: ===== Successfully login page title =====
+2023-12-26 10:04:00,307: LoginPage: INFO: ===== TC02 Verify login page title =====
+2023-12-26 10:04:08,441: LoginPage: INFO: ===== providing username =====
+2023-12-26 10:04:08,518: LoginPage: INFO: ===== providing password =====
+2023-12-26 10:04:10,840: LoginPage: INFO: ===== getting login title =Login: Mercury Tours
+2023-12-26 10:04:10,947: LoginPage: INFO: ===== Successfully login page title =====
+2023-12-26 10:04:16,674: LoginPage: INFO: ===== getting title =Welcome: Mercury Tours
+2023-12-26 10:04:16,780: LoginPage: INFO: ===== Successfully home page title =====
+2023-12-26 10:06:59,538: LoginPage: INFO: ===== TC02 Verify login page title =====
+2023-12-26 10:06:59,538: LoginPage: INFO: ===== TC01 Verify home page title =====
+2023-12-26 10:07:10,259: LoginPage: INFO: ===== getting title =Welcome: Mercury Tours
+2023-12-26 10:07:10,260: LoginPage: INFO: ===== providing username =====
+2023-12-26 10:07:10,331: LoginPage: INFO: ===== providing password =====
+2023-12-26 10:07:10,366: LoginPage: INFO: ===== Successfully home page title =====
+2023-12-26 10:07:13,917: LoginPage: INFO: ===== getting login title =Login: Mercury Tours
+2023-12-26 10:07:14,052: LoginPage: INFO: ===== Successfully login page title =====
+2023-12-26 10:20:44,937: LoginPage: INFO: ===== TC02 Verify login page title =====
+2023-12-26 10:20:45,200: LoginPage: INFO: ===== TC01 Verify home page title =====
+2023-12-26 10:20:57,759: LoginPage: INFO: ===== getting title =Welcome: Mercury Tours
+2023-12-26 10:20:57,887: LoginPage: INFO: ===== Successfully home page title =====
+2023-12-26 10:20:58,743: LoginPage: INFO: ===== providing username =====
+2023-12-26 10:20:58,816: LoginPage: INFO: ===== providing password =====
+2023-12-26 10:21:03,329: LoginPage: INFO: ===== getting login title =Login: Mercury Tours
+2023-12-26 10:21:03,433: LoginPage: INFO: ===== Successfully login page title =====
+2023-12-26 12:31:35,764: LoginPage: INFO: ===== TC02 Verify login page title =====
+2023-12-26 12:31:37,255: LoginPage: INFO: ===== TC01 Verify home page title =====
+2023-12-26 12:31:51,830: LoginPage: INFO: ===== getting title =Welcome: Mercury Tours
+2023-12-26 12:31:51,930: LoginPage: INFO: ===== Successfully home page title =====
+2023-12-26 12:31:54,261: LoginPage: INFO: ===== providing username =====
+2023-12-26 12:31:54,333: LoginPage: INFO: ===== providing password =====
+2023-12-26 12:31:58,068: LoginPage: INFO: ===== getting login title =Login: Mercury Tours
+2023-12-26 12:31:58,190: LoginPage: INFO: ===== Successfully login page title =====
+2023-12-26 12:33:46,280: LoginPage: INFO: ===== TC01 Verify home page title =====
+2023-12-26 12:33:46,356: LoginPage: INFO: ===== TC02 Verify login page title =====
+2023-12-26 12:33:56,358: LoginPage: INFO: ===== getting title =Welcome: Mercury Tours
+2023-12-26 12:33:56,456: LoginPage: INFO: ===== Successfully home page title =====
+2023-12-26 12:33:57,521: LoginPage: INFO: ===== providing username =====
+2023-12-26 12:33:57,591: LoginPage: INFO: ===== providing password =====
+2023-12-26 12:34:01,018: LoginPage: INFO: ===== getting login title =Login: Mercury Tours
+2023-12-26 12:34:01,143: LoginPage: INFO: ===== Successfully login page title =====
+2023-12-26 12:44:34,548: LoginPage: INFO: ===== TC01 Verify home page title =====
+2023-12-26 12:44:34,597: LoginPage: INFO: ===== TC02 Verify login page title =====
+2023-12-26 12:44:45,952: LoginPage: INFO: ===== providing username =====
+2023-12-26 12:44:46,026: LoginPage: INFO: ===== providing password =====
+2023-12-26 12:44:49,921: LoginPage: INFO: ===== getting login title =Login: Mercury Tours
+2023-12-26 12:44:50,022: LoginPage: INFO: ===== Successfully login page title =====
+2023-12-26 12:44:52,581: LoginPage: INFO: ===== getting title =Welcome: Mercury Tours
+2023-12-26 12:44:52,687: LoginPage: INFO: ===== Successfully home page title =====
+2023-12-26 12:46:14,248: LoginPage: INFO: ===== TC01 Verify home page title =====
+2023-12-26 12:46:15,016: LoginPage: INFO: ===== TC02 Verify login page title =====
+2023-12-26 12:46:25,533: LoginPage: INFO: ===== providing username =====
+2023-12-26 12:46:25,608: LoginPage: INFO: ===== providing password =====
+2023-12-26 12:46:26,181: LoginPage: INFO: ===== getting title =Welcome: Mercury Tours
+2023-12-26 12:46:26,281: LoginPage: INFO: ===== Successfully home page title =====
+2023-12-26 12:46:29,041: LoginPage: INFO: ===== getting login title =Login: Mercury Tours
+2023-12-26 12:46:29,134: LoginPage: INFO: ===== Successfully login page title =====
+2023-12-26 12:56:32,549: LoginPage: INFO: ===== TC01 Verify home page title =====
+2023-12-26 12:56:33,453: LoginPage: INFO: ===== TC02 Verify login page title =====
+2023-12-26 12:56:44,303: LoginPage: INFO: ===== getting title =Welcome: Mercury Tours
+2023-12-26 12:56:44,331: LoginPage: INFO: ===== providing username =====
+2023-12-26 12:56:44,407: LoginPage: INFO: ===== providing password =====
+2023-12-26 12:56:44,412: LoginPage: INFO: ===== Successfully home page title =====
+2023-12-26 12:56:48,534: LoginPage: INFO: ===== getting login title =Login: Mercury Tours
+2023-12-26 12:56:48,673: LoginPage: INFO: ===== Successfully login page title =====
+2023-12-26 15:33:47,328: LoginPage: INFO: ===== TC01 Verify home page title =====
+2023-12-26 15:33:49,715: LoginPage: INFO: ===== TC02 Verify login page title =====
+2023-12-26 15:34:01,177: LoginPage: INFO: ===== getting title =Welcome: Mercury Tours
+2023-12-26 15:34:01,308: LoginPage: INFO: ===== Successfully home page title =====
+2023-12-26 15:34:09,382: LoginPage: INFO: ===== providing username =====
+2023-12-26 15:34:09,457: LoginPage: INFO: ===== providing password =====
+2023-12-26 15:34:12,387: LoginPage: INFO: ===== getting login title =Login: Mercury Tours
+2023-12-26 15:34:12,491: LoginPage: INFO: ===== Successfully login page title =====
+2023-12-26 15:36:19,328: LoginPage: INFO: ===== TC01 Verify home page title =====
+2023-12-26 15:36:19,450: LoginPage: INFO: ===== TC02 Verify login page title =====
+2023-12-26 15:36:37,423: LoginPage: INFO: ===== providing username =====
+2023-12-26 15:36:37,497: LoginPage: INFO: ===== providing password =====
+2023-12-26 15:36:39,186: LoginPage: INFO: ===== getting title =Welcome: Mercury Tours
+2023-12-26 15:36:39,293: LoginPage: INFO: ===== Successfully home page title =====
+2023-12-26 15:36:42,328: LoginPage: INFO: ===== getting login title =Login: Mercury Tours
+2023-12-26 15:36:42,440: LoginPage: INFO: ===== Successfully login page title =====
+2023-12-26 15:44:38,466: LoginPage: INFO: ===== TC02 Verify login page title =====
+2023-12-26 15:44:38,764: LoginPage: INFO: ===== TC01 Verify home page title =====
+2023-12-26 15:44:53,980: LoginPage: INFO: ===== providing username =====
+2023-12-26 15:44:54,045: LoginPage: INFO: ===== providing password =====
+2023-12-26 15:44:55,012: LoginPage: INFO: ===== getting title =Welcome: Mercury Tours
+2023-12-26 15:44:55,133: LoginPage: INFO: ===== Successfully home page title =====
+2023-12-26 15:44:58,023: LoginPage: INFO: ===== getting login title =Login: Mercury Tours
+2023-12-26 15:44:58,122: LoginPage: INFO: ===== Successfully login page title =====
+2023-12-26 15:54:39,471: LoginPage: INFO: ===== TC01 Verify home page title =====
+2023-12-26 15:54:46,174: LoginPage: INFO: ===== getting title =Welcome: Mercury Tours
+2023-12-26 15:54:46,286: LoginPage: INFO: ===== Successfully home page title =====
+2023-12-26 15:54:47,870: LoginPage: INFO: ===== TC02 Verify login page title =====
+2023-12-26 15:54:57,419: LoginPage: INFO: ===== providing username =====
+2023-12-26 15:54:57,491: LoginPage: INFO: ===== providing password =====
+2023-12-26 15:55:00,682: LoginPage: INFO: ===== getting login title =Login: Mercury Tours
+2023-12-26 15:55:00,807: LoginPage: INFO: ===== Successfully login page title =====
+2023-12-26 15:55:29,931: LoginPage: INFO: ===== TC01 Verify home page title =====
+2023-12-26 15:55:51,945: LoginPage: INFO: ===== getting title =Welcome: Mercury Tours
+2023-12-26 15:55:52,035: LoginPage: INFO: ===== Successfully home page title =====
+2023-12-26 15:55:53,499: LoginPage: INFO: ===== TC02 Verify login page title =====
+2023-12-26 15:56:00,881: LoginPage: INFO: ===== providing username =====
+2023-12-26 15:56:00,954: LoginPage: INFO: ===== providing password =====
+2023-12-26 15:56:05,787: LoginPage: INFO: ===== getting login title =Login: Mercury Tours
+2023-12-26 15:56:05,966: LoginPage: INFO: ===== Successfully login page title =====
+2023-12-26 16:00:47,034: LoginPage: INFO: ===== TC01 Verify home page title =====
+2023-12-26 16:01:05,039: LoginPage: INFO: ===== getting title =Welcome: Mercury Tours
+2023-12-26 16:01:05,143: LoginPage: INFO: ===== Successfully home page title =====
+2023-12-26 16:01:07,102: LoginPage: INFO: ===== TC02 Verify login page title =====
+2023-12-26 16:01:13,841: LoginPage: INFO: ===== providing username =====
+2023-12-26 16:01:13,915: LoginPage: INFO: ===== providing password =====
+2023-12-26 16:01:17,009: LoginPage: INFO: ===== getting login title =Login: Mercury Tours
+2023-12-26 16:01:17,105: LoginPage: INFO: ===== Successfully login page title =====
+2023-12-26 16:08:58,669: LoginPage: INFO: ===== TC01 Verify home page title =====
+2023-12-26 16:09:08,152: LoginPage: INFO: ===== getting title =Welcome: Mercury Tours
+2023-12-26 16:09:08,255: LoginPage: INFO: ===== Successfully home page title =====
+2023-12-26 16:09:10,243: LoginPage: INFO: ===== TC02 Verify login page title =====
+2023-12-26 16:09:18,519: LoginPage: INFO: ===== providing username =====
+2023-12-26 16:09:18,592: LoginPage: INFO: ===== providing password =====
+2023-12-26 16:09:23,360: LoginPage: INFO: ===== getting login title =Login: Mercury Tours
+2023-12-26 16:09:23,474: LoginPage: INFO: ===== Successfully login page title =====
+2023-12-26 16:09:25,435: LoginPage: INFO: ===== TC03 Verify login page title =====
+2023-12-26 16:09:35,661: LoginPage: INFO: ===== providing username =====
+2023-12-26 16:09:35,732: LoginPage: INFO: ===== providing password =====
+2023-12-26 16:09:37,814: LoginPage: INFO: ===== getting login title =Login: Mercury Tours
+2023-12-26 16:09:37,860: LoginPage: INFO: ===== Successfully login page title =====
+2023-12-26 16:09:37,991: LoginPage: INFO: ===== TC03 Verify login page title =====
+2023-12-26 16:09:38,608: LoginPage: INFO: ===== providing username =====
+2023-12-26 16:09:38,660: LoginPage: INFO: ===== providing password =====
+2023-12-26 16:09:39,469: LoginPage: INFO: ===== getting login title =Welcome: Mercury Tours
+2023-12-26 16:09:39,484: LoginPage: INFO: ===== failed login title =====
+2023-12-26 16:09:39,637: LoginPage: INFO: ===== TC03 Verify login page title =====
+2023-12-26 16:09:40,257: LoginPage: INFO: ===== providing username =====
+2023-12-26 16:09:40,308: LoginPage: INFO: ===== providing password =====
+2023-12-26 16:09:42,358: LoginPage: INFO: ===== getting login title =Welcome: Mercury Tours
+2023-12-26 16:09:42,375: LoginPage: INFO: ===== failed login title =====
+2023-12-26 16:09:42,524: LoginPage: INFO: ===== TC03 Verify login page title =====
+2023-12-26 16:09:43,155: LoginPage: INFO: ===== providing username =====
+2023-12-26 16:09:43,205: LoginPage: INFO: ===== providing password =====
+2023-12-26 16:09:44,113: LoginPage: INFO: ===== getting login title =Welcome: Mercury Tours
+2023-12-26 16:09:44,128: LoginPage: INFO: ===== failed login title =====
+2023-12-26 16:13:03,040: LoginPage: INFO: ===== TC01 Verify home page title =====
+2023-12-26 16:13:13,025: LoginPage: INFO: ===== getting title =Welcome: Mercury Tours
+2023-12-26 16:13:13,133: LoginPage: INFO: ===== Successfully home page title =====
+2023-12-26 16:13:15,306: LoginPage: INFO: ===== TC02 Verify login page title =====
+2023-12-26 16:13:19,949: LoginPage: INFO: ===== providing username =====
+2023-12-26 16:13:20,020: LoginPage: INFO: ===== providing password =====
+2023-12-26 16:13:21,263: LoginPage: INFO: ===== getting login title =Login: Mercury Tours
+2023-12-26 16:13:21,384: LoginPage: INFO: ===== Successfully login page title =====
+2023-12-26 16:13:22,911: LoginPage: INFO: ===== TC03 Verify login page title =====
+2023-12-26 16:13:35,435: LoginPage: INFO: ===== providing username =====
+2023-12-26 16:13:35,506: LoginPage: INFO: ===== providing password =====
+2023-12-26 16:13:38,287: LoginPage: INFO: ===== getting login title =Login: Mercury Tours
+2023-12-26 16:13:38,302: LoginPage: INFO: ===== Successfully login page title =====
+2023-12-26 16:13:38,408: LoginPage: INFO: ===== TC03 Verify login page title =====
+2023-12-26 16:13:39,035: LoginPage: INFO: ===== providing username =====
+2023-12-26 16:13:39,085: LoginPage: INFO: ===== providing password =====
+2023-12-26 16:13:40,116: LoginPage: INFO: ===== getting login title =Welcome: Mercury Tours
+2023-12-26 16:13:40,126: LoginPage: INFO: ===== failed login title =====
+2023-12-26 16:13:40,220: LoginPage: INFO: Login is failed
+2023-12-26 16:13:40,239: LoginPage: INFO: ===== TC03 Verify login page title =====
+2023-12-26 16:13:40,892: LoginPage: INFO: ===== providing username =====
+2023-12-26 16:13:40,956: LoginPage: INFO: ===== providing password =====
+2023-12-26 16:13:41,823: LoginPage: INFO: ===== getting login title =Welcome: Mercury Tours
+2023-12-26 16:13:41,833: LoginPage: INFO: ===== failed login title =====
+2023-12-26 16:13:41,947: LoginPage: INFO: Login is failed
+2023-12-26 16:13:41,967: LoginPage: INFO: ===== TC03 Verify login page title =====
+2023-12-26 16:13:43,425: LoginPage: INFO: ===== providing username =====
+2023-12-26 16:13:43,475: LoginPage: INFO: ===== providing password =====
+2023-12-26 16:13:45,318: LoginPage: INFO: ===== getting login title =Welcome: Mercury Tours
+2023-12-26 16:13:45,328: LoginPage: INFO: ===== failed login title =====
+2023-12-26 16:13:45,438: LoginPage: INFO: Login is failed
+2023-12-26 18:22:29,451: LoginPage: INFO: ===== TC01 Verify home page title =====
+2023-12-26 18:22:39,462: LoginPage: INFO: ===== getting title =Welcome: Mercury Tours
+2023-12-26 18:22:39,549: LoginPage: INFO: ===== Successfully home page title =====
+2023-12-26 18:22:40,904: LoginPage: INFO: ===== TC02 Verify login page title =====
+2023-12-26 18:22:47,763: LoginPage: INFO: ===== providing username =====
+2023-12-26 18:22:47,838: LoginPage: INFO: ===== providing password =====
+2023-12-26 18:22:49,687: LoginPage: INFO: ===== getting login title =Login: Mercury Tours
+2023-12-26 18:22:49,814: LoginPage: INFO: ===== Successfully login page title =====
+2023-12-26 18:22:51,374: LoginPage: INFO: ===== TC03 Verify login page title =====
+2023-12-26 18:23:07,178: LoginPage: INFO: ===== providing username =====
+2023-12-26 18:23:07,254: LoginPage: INFO: ===== providing password =====
+2023-12-26 18:23:08,435: LoginPage: INFO: ===== getting login title =Login: Mercury Tours
+2023-12-26 18:23:08,452: LoginPage: INFO: ===== Successfully login page title =====
+2023-12-26 18:23:08,582: LoginPage: INFO: ===== TC03 Verify login page title =====
+2023-12-26 18:23:09,239: LoginPage: INFO: ===== providing username =====
+2023-12-26 18:23:09,291: LoginPage: INFO: ===== providing password =====
+2023-12-26 18:23:10,434: LoginPage: INFO: ===== getting login title =Welcome: Mercury Tours
+2023-12-26 18:23:10,445: LoginPage: INFO: ===== failed login title =====
+2023-12-26 18:23:10,553: LoginPage: INFO: Login is failed
+2023-12-26 18:27:28,656: LoginPage: INFO: ===== TC01 Verify home page title =====
+2023-12-26 18:27:39,880: LoginPage: INFO: ===== getting title =Welcome: Mercury Tours
+2023-12-26 18:27:39,977: LoginPage: INFO: ===== Successfully home page title =====
+2023-12-26 18:27:41,496: LoginPage: INFO: ===== TC02 Verify login page title =====
+2023-12-26 18:27:50,242: LoginPage: INFO: ===== providing username =====
+2023-12-26 18:27:50,323: LoginPage: INFO: ===== providing password =====
+2023-12-26 18:27:53,584: LoginPage: INFO: ===== getting login title =Login: Mercury Tours
+2023-12-26 18:27:53,677: LoginPage: INFO: ===== Successfully login page title =====
+2023-12-26 18:27:55,525: LoginPage: INFO: ===== TC03 Verify login page title =====
+2023-12-26 18:28:02,450: LoginPage: INFO: ===== providing username =====
+2023-12-26 18:28:02,522: LoginPage: INFO: ===== providing password =====
+2023-12-26 18:28:06,447: LoginPage: INFO: ===== getting login title =Login: Mercury Tours
+2023-12-26 18:28:06,460: LoginPage: INFO: ===== Successfully login page title =====
+2023-12-26 18:28:06,578: LoginPage: INFO: ===== TC03 Verify login page title =====
+2023-12-26 18:28:09,794: LoginPage: INFO: ===== providing username =====
+2023-12-26 18:28:09,854: LoginPage: INFO: ===== providing password =====
+2023-12-26 18:28:12,502: LoginPage: INFO: ===== getting login title =Welcome: Mercury Tours
+2023-12-26 18:28:12,513: LoginPage: INFO: ===== failed login title =====
+2023-12-26 18:28:12,649: LoginPage: INFO: Login is success
+2023-12-26 18:28:12,669: LoginPage: INFO: ===== TC03 Verify login page title =====
+2023-12-26 18:28:14,611: LoginPage: INFO: ===== providing username =====
+2023-12-26 18:28:14,683: LoginPage: INFO: ===== providing password =====
+2023-12-26 18:28:16,722: LoginPage: INFO: ===== getting login title =Welcome: Mercury Tours
+2023-12-26 18:28:16,732: LoginPage: INFO: ===== failed login title =====
+2023-12-26 18:28:16,811: LoginPage: INFO: Login is success
+2023-12-26 18:28:16,829: LoginPage: INFO: ===== TC03 Verify login page title =====
+2023-12-26 18:28:18,900: LoginPage: INFO: ===== providing username =====
+2023-12-26 18:28:18,950: LoginPage: INFO: ===== providing password =====
+2023-12-26 18:28:19,780: LoginPage: INFO: ===== getting login title =Welcome: Mercury Tours
+2023-12-26 18:28:19,791: LoginPage: INFO: ===== failed login title =====
+2023-12-26 18:28:19,899: LoginPage: INFO: Login is success
+2023-12-26 18:30:15,129: LoginPage: INFO: ===== TC01 Verify home page title =====
+2023-12-26 18:30:27,728: LoginPage: INFO: ===== getting title =Welcome: Mercury Tours
+2023-12-26 18:30:27,836: LoginPage: INFO: ===== Successfully home page title =====
+2023-12-26 18:30:29,623: LoginPage: INFO: ===== TC02 Verify login page title =====
+2023-12-26 18:30:38,301: LoginPage: INFO: ===== providing username =====
+2023-12-26 18:30:38,370: LoginPage: INFO: ===== providing password =====
+2023-12-26 18:30:40,012: LoginPage: INFO: ===== getting login title =Login: Mercury Tours
+2023-12-26 18:30:40,117: LoginPage: INFO: ===== Successfully login page title =====
+2023-12-26 18:30:42,080: LoginPage: INFO: ===== TC03 Verify login page title =====
+2023-12-26 18:30:53,439: LoginPage: INFO: ===== providing username =====
+2023-12-26 18:30:53,510: LoginPage: INFO: ===== providing password =====
+2023-12-26 18:30:54,962: LoginPage: INFO: ===== getting login title =Login: Mercury Tours
+2023-12-26 18:30:54,974: LoginPage: INFO: ===== Successfully login page title =====
+2023-12-26 18:30:55,083: LoginPage: INFO: ===== TC03 Verify login page title =====
+2023-12-26 18:30:55,907: LoginPage: INFO: ===== providing username =====
+2023-12-26 18:30:55,960: LoginPage: INFO: ===== providing password =====
+2023-12-26 18:30:57,442: LoginPage: INFO: ===== getting login title =Welcome: Mercury Tours
+2023-12-26 18:30:57,453: LoginPage: INFO: ===== failed login title =====
+2023-12-26 18:30:57,591: LoginPage: INFO: Login is success
+2023-12-26 18:30:57,619: LoginPage: INFO: ===== TC03 Verify login page title =====
+2023-12-26 18:30:58,731: LoginPage: INFO: ===== providing username =====
+2023-12-26 18:30:58,785: LoginPage: INFO: ===== providing password =====
+2023-12-26 18:31:00,980: LoginPage: INFO: ===== getting login title =Welcome: Mercury Tours
+2023-12-26 18:31:00,991: LoginPage: INFO: ===== failed login title =====
+2023-12-26 18:31:01,083: LoginPage: INFO: Login is success
+2023-12-26 18:31:01,102: LoginPage: INFO: ===== TC03 Verify login page title =====
+2023-12-26 18:31:01,750: LoginPage: INFO: ===== providing username =====
+2023-12-26 18:31:01,797: LoginPage: INFO: ===== providing password =====
+2023-12-26 18:31:02,492: LoginPage: INFO: ===== getting login title =Welcome: Mercury Tours
+2023-12-26 18:31:02,502: LoginPage: INFO: ===== failed login title =====
+2023-12-26 18:31:02,601: LoginPage: INFO: Login is success
+2023-12-26 18:34:23,306: LoginPage: INFO: ===== TC01 Verify home page title =====
+2023-12-26 18:34:33,729: LoginPage: INFO: ===== getting title =Welcome: Mercury Tours
+2023-12-26 18:34:33,835: LoginPage: INFO: ===== Successfully home page title =====
